@@ -18,7 +18,7 @@
       <br>Javascript
     </td>
         <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/jxywastaken/jxywastaken/main/luaa.gif" alt="icon" width="65" height="65" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/128px-Lua-Logo.svg.png" alt="icon" width="65" height="65" />
       <br>Lua
     </td>
   </tr>
